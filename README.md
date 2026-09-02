@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lone-wolf-fatec/lone-wolf-fatec/main/banner-the-wolf.png" alt="The Wolf Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/the-wolf-fatec/the-wolf-fatec/master/banner-the-wolf.png" alt="The Wolf Banner" width="100%"/>
 </p>
-
-
 ---
 
 ## 🐺 Equipe Lone Wolf
