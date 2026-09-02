@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lone-wolf-fatec/lone-wolf-fatec/main/banner-the-wolf.jpeg" alt="The Wolf Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/lone-wolf-fatec/lone-wolf-fatec/main/banner-the-wolf.png" alt="The Wolf Banner" width="100%"/>
 </p>
 
 
